@@ -1,0 +1,6 @@
+{
+  "name": "GainUp",
+  "description": "GainUp is a personal health and diet tracker built for healthy weight gain in Pakistan. Features Pakistani & Western food logging, AI food photo scanning, daily calorie & macro targets, water tracker, sleep logs, weight progress chart, meal plans, smart nutrition advice, and local Room offline persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
